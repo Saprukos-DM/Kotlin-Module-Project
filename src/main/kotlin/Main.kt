@@ -1,3 +1,6 @@
-fun main(args: Array<String>) {
-    println("Hello World!")
+import archive.ArchiveList
+
+fun main() {
+    ArchiveList().show()
+    println("До встречи!")
 }
